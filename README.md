@@ -19,13 +19,13 @@
 ### 1. 下载脚本
 克隆仓库到本地：
 ```bash
-git clone https://github.com/你的用户名/shadowsocks-install.git
+git clone https://github.com/sunnfun-0/shadowsocks-install.git
 cd shadowsocks-install
 ```
 
 或直接下载脚本：
 ```bash
-wget https://raw.githubusercontent.com/你的用户名/shadowsocks-install/main/install_ss_optimized.sh
+wget https://raw.githubusercontent.com/sunnfun-0/shadowsocks-install/main/install_ss_optimized.sh
 ```
 
 ### 2. 赋予执行权限
