@@ -25,17 +25,17 @@ cd shadowsocks-rust-install
 
 或直接下载脚本：
 ```bash
-wget https://raw.githubusercontent.com/sunnfun-0/shadowsocks-rust-install/main/install_ss_optimized.sh
+wget https://raw.githubusercontent.com/sunnfun-0/shadowsocks-rust-install/main/shadowsocks-rust-install.sh
 ```
 
 ### 2. 赋予执行权限
 ```bash
-chmod +x install_ss_optimized.sh
+chmod +x shadowsocks-rust-install.sh
 ```
 
 ### 3. 运行脚本
 ```bash
-sudo ./install_ss_optimized.sh
+sudo ./shadowsocks-rust-install.sh
 ```
 
 ### 4. 输入配置信息
