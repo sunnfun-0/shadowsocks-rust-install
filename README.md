@@ -16,6 +16,11 @@
 
 ## 使用方法
 
+### 一键运行脚本
+```bash
+bash <(curl -sSL https://raw.githubusercontent.com/sunnfun-0/shadowsocks-rust-install/main/shadowsocks-rust-install.sh)
+```
+
 ### 1. 下载脚本
 克隆仓库到本地：
 ```bash
